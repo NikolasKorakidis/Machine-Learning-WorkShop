@@ -1,0 +1,23 @@
+{
+  "name": "MachineLearning",
+  "version": "1.0.0",
+  "description": "I am very interested latelyon A.I and machine learning. I picked up an excelent workshop from Travercy Media and going for my first machine learning class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasKorakidis/Machine-Learning-WorkShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolasKorakidis/Machine-Learning-WorkShop/issues"
+  },
+  "homepage": "https://github.com/NikolasKorakidis/Machine-Learning-WorkShop#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  }
+}
